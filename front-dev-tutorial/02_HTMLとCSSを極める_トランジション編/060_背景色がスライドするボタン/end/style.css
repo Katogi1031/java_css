@@ -35,3 +35,12 @@
 .btn.slide-bg:hover span {
   transform: none;
 }/*# sourceMappingURL=style.css.map */
+
+.border{
+  position: relative
+}
+
+hr{
+  position: absolute;
+  top: 20px;
+}
